@@ -1,0 +1,43 @@
+#define _CRT_SECURE_NO_WARNINGS 
+           
+https://blog.csdn.net/dengjin20104042056/article/details/47813153
+
+
+http://smartdev.jd.com/docCenterDoc/view/3/102/0#topMaoDot
+京东云
+
+
+https://blog.csdn.net/dengjin20104042056/article/details/82561588
+vs2017
+
+https://blog.csdn.net/dengjin20104042056/article/details/81947110
+github
+
+https://blog.csdn.net/dengjin20104042056/article/details/81948099
+gitGUI
+
+ 编辑器                
+sour insight
+atom
+
+github
+码云
+
+linux程序设计
+
+unix网络编程
+
+高数
+复变函数
+
+微"机"原理
+
+"数电"
+
+"模电"
+
+电路原理
+<HTTP权威指南>   
+<图解HTTP协议>
+
+
